@@ -15,7 +15,7 @@
 	ariaLabel="Open quickstart guides on Juno's website"
 	title="Quickstart"
 >
-	Discover how to use Astro with Juno.
+	Discover how to use Astro with Juno. Test 123
 </Article>
 
 <Article

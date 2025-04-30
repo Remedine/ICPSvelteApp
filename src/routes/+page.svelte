@@ -4,10 +4,10 @@
 </script>
 
 <Hero
-	href="https://juno.build/docs/add-juno-to-an-app/create-a-satellite"
+	href="https://icp.digitalseeds.dev/page2"
 	ariaLabel="Discover how to create a Satellite and deploy your project to production"
 >
-	Not yet live? Launch your Satellite
+	Go to page 2.
 </Hero>
 
 <Article
@@ -15,7 +15,7 @@
 	ariaLabel="Open quickstart guides on Juno's website"
 	title="Quickstart"
 >
-	Discover how to use Astro with Juno. Test 123
+	Discover how to use Astro with Juno.
 </Article>
 
 <Article
